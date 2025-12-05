@@ -1,0 +1,17 @@
+{
+  "name": "mutual-fund-nav-analysis",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "csv-parser": "^3.2.0",
+    "dayjs": "^1.11.19",
+    "inquirer": "^8.2.4"
+  }
+}
